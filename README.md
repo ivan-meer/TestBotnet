@@ -1,7 +1,6 @@
 # Centralized BOTNET
 Diploma project created only for testing and education purposes.
-
-Functionality:
+# Functionality:
 * Basic Persistence
 * DDoS Attack (HTTP Flood)
 * CMD Execution
@@ -11,5 +10,5 @@ Functionality:
 * PC Reboot/Shutdown
 * Remote Drop Files
 * Task Creation System(From AdminPanel)
-
+# Admin Panel Preview:
 ![](adminpanel.gif)
