@@ -11,3 +11,5 @@ Functionality:
 * PC Reboot/Shutdown
 * Remote Drop Files
 * Task Creation System(From AdminPanel)
+
+![](adminpanel.gif)
