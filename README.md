@@ -1,5 +1,5 @@
 # Centralized BOTNET
-Diploma project created only for testing and education purposes.
+only for testing and education purposes.
 # Functionality:
 * Basic Persistence
 * DDoS Attack (HTTP Flood)
